@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="tokens.svg"
-   inkscape:export-filename="started.png"
+   inkscape:export-filename="red.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.74564394"
-     inkscape:cx="-332.59843"
-     inkscape:cy="28.163576"
+     inkscape:zoom="2.9825758"
+     inkscape:cx="-26.654813"
+     inkscape:cy="42.915926"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -166,11 +166,18 @@
        x="4.5432124"
        y="47.887718" />
     <rect
-       style="fill:#22b14c;fill-opacity:1;stroke:#ffffff;stroke-width:0.618252;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1"
+       style="fill:#ed1c24;fill-opacity:1;stroke:#ffffff;stroke-width:0.618252;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1"
        id="rect1062-0-0-2-1-8"
        width="12.610914"
        height="12.610914"
        x="0.30912623"
        y="0.30912623" />
+    <rect
+       style="fill:#22b14c;fill-opacity:1;stroke:#ffffff;stroke-width:0.618252;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;stroke-opacity:1"
+       id="rect1062-0-0-2-1-8-2"
+       width="12.610914"
+       height="12.610914"
+       x="21.726801"
+       y="26.339705" />
   </g>
 </svg>
